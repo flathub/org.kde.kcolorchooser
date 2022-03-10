@@ -19,7 +19,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kcolorchooser-21.12.3.tar.xz",
-                    "sha256": "fadc3df8e6b47de72681434ecc9370a92fc23cf2aa97c4988b60f524155fd64a"
+                    "sha256": "fadc3df8e6b47de72681434ecc9370a92fc23cf2aa97c4988b60f524155fd64a",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kcolorchooser-$version.tar.xz"
+                    }
                 },
                 {
                     "type": "patch",
