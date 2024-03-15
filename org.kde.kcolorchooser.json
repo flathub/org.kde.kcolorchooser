@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kcolorchooser",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
     "command": "kcolorchooser",
     "rename-icon": "kcolorchooser",
@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kcolorchooser-23.08.5.tar.xz",
-                    "sha256": "c62a78191f423b7774930165424165e8866c16189b941323da1321f79992bb21",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kcolorchooser-24.02.0.tar.xz",
+                    "sha256": "362736b6f50c0f6109b6ba058d14149a27e1691824bc6423e7186495da419123",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
