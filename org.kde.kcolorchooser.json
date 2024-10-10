@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/kcolorchooser-24.08.1.tar.xz",
-                    "sha256": "d8462f12d54e700aa6ec435cb8aef39fc42dad4842ee6e84fb6efebbe427703c",
+                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/kcolorchooser-24.08.2.tar.xz",
+                    "sha256": "a63b57d8ae571f8f56bc76568dd6ab0c5382cd8764b80efe89efce194349d3cb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
