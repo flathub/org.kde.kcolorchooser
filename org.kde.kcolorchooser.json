@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/kcolorchooser-25.04.1.tar.xz",
-                    "sha256": "bed3b2c163f8775d40bca558afd0b8c1847e29ba9ba529b412f9217f0b3780cf",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/kcolorchooser-25.04.2.tar.xz",
+                    "sha256": "749f3a80498fb5632d5c835f4ac17eedd16d891dd74b8af06ca12445c7bc6a0f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
