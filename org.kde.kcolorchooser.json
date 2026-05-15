@@ -30,7 +30,7 @@
             ],
             "post-install": [
                 "install -D /usr/share/icons/breeze/apps/48/kcolorchooser.svg -t /app/share/icons/hicolor/scalable/apps/",
-                "desktop-file-edit --set-icon${FLATPAK_ID} ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop"
+                "desktop-file-edit --set-icon=${FLATPAK_ID} ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop"
             ]
         }
     ]
